@@ -1,0 +1,7 @@
+---
+title: "세종대학교 블로그"
+author: "유찬희"
+date: "2024-01-18"
+categories: [news, code, analysis]
+image: "스크린샷 2022-09-13 오전 10.41.20.png"
+---
